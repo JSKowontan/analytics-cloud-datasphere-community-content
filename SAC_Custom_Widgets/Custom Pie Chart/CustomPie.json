@@ -12,9 +12,9 @@
       {
         "kind": "main",
         "tag": "com-sap-sample-echarts-custom_pie_chart",
-        "url": "/main_Pie_Custom.js",
-        "integrity": "",
-        "ignoreIntegrity": true
+        "url": "https://cdn.jsdelivr.net/gh/JSKowontan/analytics-cloud-datasphere-community-content@c582968487c2261645976ce570624836aea3d09c/SAC_Custom_Widgets/Custom%20Pie%20Chart/main_Pie_Custom.js",
+        "integrity": "sha256-2sQVGoSpcFwJ4VdKOHmi5l+pW4MqVk+KhCR6LOG3p1s=",
+        "ignoreIntegrity": false
       }
     ],
     "properties": {
